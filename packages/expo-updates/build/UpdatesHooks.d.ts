@@ -27,5 +27,5 @@ export declare const useUpdateEvents: (listener: (event: UpdateEvent) => void) =
 /**
  * @hidden
  */
-export declare const useUpdatesState: () => UpdatesNativeStateMachineContext;
+export declare const useNativeStateMachineContext: () => UpdatesNativeStateMachineContext;
 //# sourceMappingURL=UpdatesHooks.d.ts.map
